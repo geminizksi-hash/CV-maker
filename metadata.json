@@ -1,0 +1,6 @@
+{
+  "name": "DesignCV",
+  "description": "Interactive modern Resume/CV builder with stylish minimalist templates, real-time preview, grid alignment overlay, photo crop/filters, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
